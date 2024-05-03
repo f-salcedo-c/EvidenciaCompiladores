@@ -23,6 +23,6 @@ The purpose of this repository is to showcase our capstone project by building a
 
 ### Conclusions
 - Review each team member's conclusions:
-  - [Ana Paula’s Conclusion](url to video)
-  - [Karla’s Conclusion](url to video)
+  - [Ana Paula’s Conclusion](https://drive.google.com/drive/folders/1aMfopWPNF-AZ6en1UfIyckIQsRdDCeKT)
+  - [Karla’s Conclusion](https://drive.google.com/drive/folders/1Tsp2v7XhuT_m9CZHz4g_thXjvnlIUjN9?usp=sharing)
   - [Francisco’s Conclusion](url to video)
