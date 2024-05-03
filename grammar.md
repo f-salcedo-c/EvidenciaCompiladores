@@ -1,8 +1,6 @@
 Grammar Rules
 -------------
-
-The rules for this interpreter are highlighted here in BNF syntax.
-
+```
 <L> :: = <assignment>
 
 <assignment> ::= VARIABLE SETTO <expression>
@@ -50,4 +48,4 @@ The rules for this interpreter are highlighted here in BNF syntax.
             | <expression>
 
 <string> ::= STRING
-
+```
