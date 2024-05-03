@@ -1,0 +1,1 @@
+myImage = load_image("images/test.jpg")
