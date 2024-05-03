@@ -4,8 +4,8 @@
 
 ### Authors:
 - Francisco Salcedo a01633010
-- Ana Paula Katsuda a01
-- Karla Mondragón a01
+- Ana Paula Katsuda a01025303
+- Karla Mondragón a01025108
 
 The purpose of this repository is to showcase our capstone project by building an interpreter that parses instructions following grammatical rules.
 
